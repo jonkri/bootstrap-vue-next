@@ -105,24 +105,24 @@ export default {
         {
           args: [
             {
-              arg: 'sliding-start',
+              arg: 'slide',
               description: '',
               type: 'Event',
             },
           ],
           description: '',
-          event: 'sliding-start',
+          event: 'slide',
         },
         {
           args: [
             {
-              arg: 'sliding-end',
+              arg: 'slid',
               description: '',
               type: 'Event',
             },
           ],
           description: '',
-          event: 'sliding-end',
+          event: 'slid',
         },
       ],
       slots: [
